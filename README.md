@@ -1,10 +1,9 @@
-# Currently taken down - Patching
-
 # RGBclient - A Discord client with RGB effects, different colors, rounded elements and other cool optics!
-For more information, visit https://www.rgbclient.xyz/ | https://sites.google.com/view/rgbclient/
+For more information, visit https://www.rgbclient.xyz/
 
 # Installation
 Download the attached .exe file and run it. That's it.
+Direct Download: https://rgbclient.xyz/download
 
 # Client Preview
 ![Screenshot_1](https://github.com/Lunahax/rgbclient/blob/main/rgbclientbanner1.png?raw=true)
