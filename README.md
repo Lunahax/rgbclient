@@ -9,5 +9,14 @@ Download one of the attached .exe files and run it. That's it.</br>
 If the client does not work then please try the other version. If that doesn't solve the problem then please create an issue. I will redirect it to the new project owner and developers so they can handle your problem.</br>
 New Download with authentication to avoid program errors: https://rgbclient.xyz/download
 
+# Supported OS Systems
+- Win7 ❓</br>
+- Win8 ❓</br>
+- Win10 ✅</br>
+- Win11 ✅</br>
+- iOS & similar ❌</br>
+- Android ❌</br>
+❌ = not compatible | ✅ = compatible | ❓ = untested
+
 # Client Preview
 ![Screenshot_1](https://github.com/Lunahax/rgbclient/blob/main/rgbclientbanner1.png?raw=true)
