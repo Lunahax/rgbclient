@@ -5,7 +5,7 @@ This project is no longer hosted, owned or associated with me in any way. Projec
 For more information, visit https://www.rgbclient.xyz/
 
 # Installation
-Download 1 of the attached .exe files and run it. That's it.
+Download one of the attached .exe files and run it. That's it.</br>
 New Download with authentication to avoid program errors: https://rgbclient.xyz/download
 
 # Client Preview
